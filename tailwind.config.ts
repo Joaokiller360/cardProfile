@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        colorButton: "#7f5af0",
+        sectionColor: '#242629'
       },
     },
   },
